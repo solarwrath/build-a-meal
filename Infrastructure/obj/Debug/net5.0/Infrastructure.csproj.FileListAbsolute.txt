@@ -1,0 +1,12 @@
+E:\Build-A-Meal\Build-A-Meal\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+E:\Build-A-Meal\Build-A-Meal\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+E:\Build-A-Meal\Build-A-Meal\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+E:\Build-A-Meal\Build-A-Meal\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+E:\Build-A-Meal\Build-A-Meal\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+E:\Build-A-Meal\Build-A-Meal\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Build-A-Meal\Build-A-Meal\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+E:\Build-A-Meal\Build-A-Meal\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+E:\Build-A-Meal\Build-A-Meal\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Build-A-Meal\Build-A-Meal\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+E:\Build-A-Meal\Build-A-Meal\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+E:\Build-A-Meal\Build-A-Meal\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb

@@ -1,0 +1,12 @@
+E:\Build-A-Meal\Build-A-Meal\Persistence\bin\Debug\net5.0\Persistence.deps.json
+E:\Build-A-Meal\Build-A-Meal\Persistence\bin\Debug\net5.0\Persistence.dll
+E:\Build-A-Meal\Build-A-Meal\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+E:\Build-A-Meal\Build-A-Meal\Persistence\bin\Debug\net5.0\Persistence.pdb
+E:\Build-A-Meal\Build-A-Meal\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+E:\Build-A-Meal\Build-A-Meal\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Build-A-Meal\Build-A-Meal\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+E:\Build-A-Meal\Build-A-Meal\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+E:\Build-A-Meal\Build-A-Meal\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+E:\Build-A-Meal\Build-A-Meal\Persistence\obj\Debug\net5.0\Persistence.dll
+E:\Build-A-Meal\Build-A-Meal\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+E:\Build-A-Meal\Build-A-Meal\Persistence\obj\Debug\net5.0\Persistence.pdb

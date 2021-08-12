@@ -1,0 +1,12 @@
+E:\Build-A-Meal\Build-A-Meal\Domain\bin\Debug\net5.0\Domain.deps.json
+E:\Build-A-Meal\Build-A-Meal\Domain\bin\Debug\net5.0\Domain.dll
+E:\Build-A-Meal\Build-A-Meal\Domain\bin\Debug\net5.0\ref\Domain.dll
+E:\Build-A-Meal\Build-A-Meal\Domain\bin\Debug\net5.0\Domain.pdb
+E:\Build-A-Meal\Build-A-Meal\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+E:\Build-A-Meal\Build-A-Meal\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Build-A-Meal\Build-A-Meal\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+E:\Build-A-Meal\Build-A-Meal\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+E:\Build-A-Meal\Build-A-Meal\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+E:\Build-A-Meal\Build-A-Meal\Domain\obj\Debug\net5.0\Domain.dll
+E:\Build-A-Meal\Build-A-Meal\Domain\obj\Debug\net5.0\ref\Domain.dll
+E:\Build-A-Meal\Build-A-Meal\Domain\obj\Debug\net5.0\Domain.pdb

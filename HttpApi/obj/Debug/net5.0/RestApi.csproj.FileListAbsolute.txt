@@ -1,0 +1,15 @@
+E:\Build-A-Meal\Build-A-Meal\RestApi\bin\Debug\net5.0\RestApi.deps.json
+E:\Build-A-Meal\Build-A-Meal\RestApi\bin\Debug\net5.0\RestApi.dll
+E:\Build-A-Meal\Build-A-Meal\RestApi\bin\Debug\net5.0\ref\RestApi.dll
+E:\Build-A-Meal\Build-A-Meal\RestApi\bin\Debug\net5.0\RestApi.pdb
+E:\Build-A-Meal\Build-A-Meal\RestApi\obj\Debug\net5.0\RestApi.csproj.AssemblyReference.cache
+E:\Build-A-Meal\Build-A-Meal\RestApi\obj\Debug\net5.0\RestApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Build-A-Meal\Build-A-Meal\RestApi\obj\Debug\net5.0\RestApi.AssemblyInfoInputs.cache
+E:\Build-A-Meal\Build-A-Meal\RestApi\obj\Debug\net5.0\RestApi.AssemblyInfo.cs
+E:\Build-A-Meal\Build-A-Meal\RestApi\obj\Debug\net5.0\RestApi.csproj.CoreCompileInputs.cache
+E:\Build-A-Meal\Build-A-Meal\RestApi\obj\Debug\net5.0\RestApi.dll
+E:\Build-A-Meal\Build-A-Meal\RestApi\obj\Debug\net5.0\ref\RestApi.dll
+E:\Build-A-Meal\Build-A-Meal\RestApi\obj\Debug\net5.0\RestApi.pdb
+E:\Build-A-Meal\Build-A-Meal\RestApi\bin\Debug\net5.0\Application.dll
+E:\Build-A-Meal\Build-A-Meal\RestApi\bin\Debug\net5.0\Application.pdb
+E:\Build-A-Meal\Build-A-Meal\RestApi\obj\Debug\net5.0\RestApi.csproj.CopyComplete
